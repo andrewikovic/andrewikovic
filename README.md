@@ -18,18 +18,12 @@
 
 **Project Euler** — 50+ problems solved in C++.
 
+---
 
-<!--
-**andrewikovic/andrewikovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on systems-level C/C++ projects (cache simulator, malloc) and data-driven applications (SQL, analytics pipelines)
+- 🌱 I’m currently learning computer systems (memory, caches, OS), low-level optimization, and applied data analysis
+- 👯 I’m looking to collaborate on systems programming, data engineering, or performance-critical software
+- 🤔 I’m looking for help with breaking into software/QA/SDET or data roles and sharpening system design + analytics + interview skills
+- 💬 Ask me about C++, data structures, SQL, databases, CAD/CAM, or real-world engineering projects
+- 📫 How to reach me: email or LinkedIn
+- ⚡ Fun fact: I built a full CAD/CAM system that generates production-ready G-code. I enjoy optimizing both code and queries for performance.
