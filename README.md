@@ -10,10 +10,6 @@
 
 **[Cache Lab (Cache Simulator + Cache-Optimized Transpose)](https://github.com/andrewikovic/cache)**￼ — Systems programming project in C focused on modeling and optimizing CPU cache behavior. Built a configurable cache simulator supporting set associativity, block sizes, and LRU eviction, achieving perfect correctness (27/27) against reference traces. Designed cache-aware matrix transpose algorithms tuned for a direct-mapped cache, using blocking, register staging, and conflict-miss reduction strategies. Achieved strong performance across all cases, including 1227 misses on the challenging 64×64 benchmark. Demonstrates low-level memory reasoning, performance tuning, and practical understanding of cache hierarchies.
 
-⸻
-
-If you want it slightly more aggressive (resume-style signaling), I can tighten it further or bias it toward “systems/performance engineering” roles.
-
 ---
 
 ## Other Projects
